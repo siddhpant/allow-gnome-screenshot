@@ -1,0 +1,9 @@
+{
+  "name": "Allow gnome-screenshot",
+  "description": "GNOME 49 disallowed gnome-screenshot access to private screenshotting API, this extensions restores it.",
+  "uuid": "allow-gnome-screenshot@siddh.me",
+  "url": "https://github.com/siddhpant/allow-gnome-screenshot",
+  "shell-version": [
+    "49"
+  ]
+}
