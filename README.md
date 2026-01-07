@@ -4,7 +4,9 @@ GNOME 49 disallowed gnome-screenshot access to private screenshotting API: https
 
 This extensions restores it in the allowlist.
 
-Install using:
+Install from https://extensions.gnome.org/extension/9127/allow-gnome-screenshot/
+
+Or manually install after cloning this repo with:
 
 ```
 $ cp -r allow-gnome-screenshot@siddh.me ~/.local/share/gnome-shell/extensions/
