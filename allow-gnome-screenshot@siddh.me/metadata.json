@@ -4,6 +4,7 @@
   "uuid": "allow-gnome-screenshot@siddh.me",
   "url": "https://github.com/siddhpant/allow-gnome-screenshot",
   "shell-version": [
+    "50",
     "49"
   ]
 }
